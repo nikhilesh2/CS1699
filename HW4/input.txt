@@ -1,0 +1,100 @@
+1, B C D
+2, E B C A D
+3, D E B C A
+4, C E B
+5, A D
+6, C E A
+7, E C D B
+8, E D A C B
+9, D A
+10, E A D
+11, E B
+12, B E C
+13, C A
+14, D C A
+15, B C A D E
+16, D B C A E
+17, A B D E
+18, B A
+19, B C D A
+20, C D B E
+21, D E C
+22, A C E D
+23, B C E D A
+24, D B
+25, A D
+26, B D A C E
+27, D B C
+28, E B
+29, B A
+30, E C B A
+31, B C D
+32, D C
+33, B E C A
+34, C A B E D
+35, C A
+36, D C
+37, C E D B A
+38, D B
+39, E C B A D
+40, A D
+41, C B D
+42, C A E
+43, D C
+44, B D C E
+45, B C E D
+46, C E A D
+47, D C
+48, E C B A D
+49, B A E D
+50, A E
+51, E D C A
+52, B C D E
+53, E A
+54, B C A E D
+55, D A B C E
+56, C E A B D
+57, B E D
+58, B D E A C
+59, B C E D A
+60, A C E B
+61, B D C
+62, E A B C
+63, D C E A
+64, C D A B E
+65, C D B
+66, E C D A
+67, E C D B A
+68, C E A D
+69, E B
+70, E C D A B
+71, A C E
+72, C B E
+73, B A C E D
+74, D E B
+75, E B C
+76, A C
+77, C B A
+78, E D C
+79, C B A
+80, E B D
+81, E B C
+82, C D A B E
+83, D C B A
+84, C E D A
+85, B D C A
+86, D C B E A
+87, E C D
+88, B A C D E
+89, E B D C A
+90, A C
+91, E D
+92, A B
+93, B C
+94, E C A D B
+95, B E
+96, C D E A B
+97, B A E
+98, E D B C
+99, D C
+100, B D C A
